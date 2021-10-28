@@ -128,6 +128,9 @@
     padding: 50px;
     margin-bottom: 120px
 }
+.btn1{
+    margin-bottom:19px !important;
+}
 
 @media(max-width: 600px) {
     body {
@@ -139,6 +142,7 @@
     }
     .Featured{
         margin-left: 500px;
+       
        
        
     }
