@@ -131,10 +131,13 @@
 
 @media(max-width: 600px) {
     body {
-      width: 170%;
+      width: 270%;
     }
     .header{
         width: 100%;
        
+    }
+    .Featured{
+        margin-left: 200px;
     }
   }
